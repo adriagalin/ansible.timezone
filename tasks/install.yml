@@ -1,0 +1,5 @@
+---
+# tasks file for adriagalin.timezone
+- name: install tzdata if it is necessary
+  apt: name=tzdata state=present
+  tags: [ common, timezone ]
