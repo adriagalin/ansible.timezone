@@ -18,6 +18,11 @@ Should work with:
 -	All Ubuntu
 -	All Debian
 
+Ansible compatibility:
+
+- Use role v1.0.1 for Ansible < 2.4
+- Use role v2.0.0 for Ansible 2.4+ (to avoid warnings)
+
 Role Variables
 --------------
 
