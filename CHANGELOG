@@ -5,3 +5,7 @@
 - Add webhook and update env versions in travis config file
 - Update ansible min version in meta.yml file
 - Update readme
+
+2.0.0
+- Breaking change: now requires Ansible 2.4+
+- Fixes deprecation warnings for Ansible 2.4+
