@@ -12,6 +12,7 @@ Tested on:
 
 -	Ubuntu 14.04 LTS
 -	Ubuntu 16.04 LTS
+-	Ubuntu 18.04 LTS
 
 Should work with:
 
@@ -20,8 +21,7 @@ Should work with:
 
 Ansible compatibility:
 
-- Use role v1.0.1 for Ansible < 2.4
-- Use role v2.0.0 for Ansible 2.4+ (to avoid warnings)
+- Use role v2.0.0 for Ansible 2.7+ (to avoid warnings)
 
 Role Variables
 --------------
