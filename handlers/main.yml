@@ -1,4 +1,4 @@
 ---
 # handlers file for adriagalin.timezone
-- name: update tzdata
+- name: timezone | update tzdata
   command: dpkg-reconfigure --frontend noninteractive tzdata
