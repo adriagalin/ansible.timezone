@@ -9,3 +9,7 @@
 2.0.0
 - Breaking change: now requires Ansible 2.4+
 - Fixes deprecation warnings for Ansible 2.4+
+
+3.0.0
+- Breaking change: now requires Ansible 2.7+
+- Fixes ansible syntax and ci versions
