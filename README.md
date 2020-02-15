@@ -41,7 +41,7 @@ Example Playbook
 ```yaml
     - hosts: servers
       roles:
-         - { role: adriagalin.timezone }
+         - { role: ansible.timezone }
 ```
 
 License
