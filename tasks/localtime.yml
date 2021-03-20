@@ -7,6 +7,6 @@
     state: link
     owner: root
     group: root
-    mode: 0777
+    mode: 0644
     force: yes
-  tags: [ common, timezone ]
+  tags: [common, timezone]

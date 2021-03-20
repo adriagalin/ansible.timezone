@@ -13,3 +13,8 @@
 3.0.0
 - Breaking change: now requires Ansible 2.7+
 - Fixes ansible syntax and ci versions
+
+4.0.0
+- Breaking change: now requires Ansible 2.9+
+- Fixes ansible syntax and ci versions
+- Fixes /etc/timezone file mode
