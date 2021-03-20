@@ -4,7 +4,7 @@ galaxy_info:
   description: Install and set timezone on your systems.
   company: Adria Galin
   license: GPLv3
-  min_ansible_version: 2.4
+  min_ansible_version: 2.9
   platforms:
     - name: Ubuntu
       versions:
@@ -12,6 +12,7 @@ galaxy_info:
     - name: Debian
       versions:
         - all
-  categories:
+  galaxy_tags:
     - system
+    - timezone
 dependencies: []

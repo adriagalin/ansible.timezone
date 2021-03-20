@@ -1,7 +1,7 @@
 adriagalin.timezone
 ===================
 
-[![Build Status](https://travis-ci.org/adriagalin/ansible.timezone.svg?branch=master)](https://travis-ci.org/adriagalin/ansible.timezone) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-timezone-blue.svg)](https://galaxy.ansible.com/list#/roles/4786)
+[![Build Status](https://travis-ci.org/adriagalin/ansible.timezone.svg?branch=master)](https://travis-ci.org/adriagalin/ansible.timezone) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-timezone-blue.svg)](https://galaxy.ansible.com/adriagalin/timezone)
 
 An ansible role for set up timezone and localtime.
 
@@ -10,18 +10,14 @@ Requirements
 
 Tested on:
 
--	Ubuntu 14.04 LTS
 -	Ubuntu 16.04 LTS
 -	Ubuntu 18.04 LTS
+-	Ubuntu 20.04 LTS
 
 Should work with:
 
 -	All Ubuntu
 -	All Debian
-
-Ansible compatibility:
-
-- Use role v2.0.0 for Ansible 2.7+ (to avoid warnings)
 
 Role Variables
 --------------
